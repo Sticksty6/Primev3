@@ -26,11 +26,8 @@ non-prime number from that list. The check will next increase by 10 and land on 
 The second checking round starts at the position 11, which relates to the number 35, and flips the bit to 1. The next number
 the second round lands on is the position 21, which is the number 65.<br/>
 # ----**Plans (09/26/2024)**----<br/>
-1.
-Allow the user to choose their desired target number, instead of 2002225.<br/>
-2.
-Improve time consumption of program<br/>
-3.
-Implement methods described by German Navarro to allow the user to save their ordinal location,
+1.Allow the user to choose their desired target number, instead of 2002225.<br/>
+2.Improve time consumption of program<br/>
+3.Implement methods described by German Navarro to allow the user to save their ordinal location,
 restart the checking rounds, and generate primes from their last location to their target number.
 This will save memory and allow for larger primes to be discovered.
