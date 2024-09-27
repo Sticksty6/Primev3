@@ -27,9 +27,9 @@ The second checking round starts at the position 11, which relates to the number
 the second round lands on is the position 21, which is the number 65.<br/>
 # ----**Plans (09/26/2024)**----<br/>
 1.
-Allow the user to choose their desired target number, instead of 2002225.
+Allow the user to choose their desired target number, instead of 2002225.<br/>
 2.
-Improve time consumption of program
+Improve time consumption of program<br/>
 3.
 Implement methods described by German Navarro to allow the user to save their ordinal location,
 restart the checking rounds, and generate primes from their last location to their target number.
